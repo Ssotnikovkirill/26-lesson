@@ -1,0 +1,14 @@
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/bin/Debug/net8.0/PizzaDeliveryService
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/bin/Debug/net8.0/PizzaDeliveryService.deps.json
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/bin/Debug/net8.0/PizzaDeliveryService.runtimeconfig.json
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/bin/Debug/net8.0/PizzaDeliveryService.dll
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/bin/Debug/net8.0/PizzaDeliveryService.pdb
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/PizzaDeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/PizzaDeliveryService.AssemblyInfoInputs.cache
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/PizzaDeliveryService.AssemblyInfo.cs
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/PizzaDeliveryService.csproj.CoreCompileInputs.cache
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/PizzaDeliveryService.dll
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/refint/PizzaDeliveryService.dll
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/PizzaDeliveryService.pdb
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/PizzaDeliveryService.genruntimeconfig.cache
+/Users/kirillsotnikov/Downloads/KOD 2/26 lesson/PizzaDeliveryService/obj/Debug/net8.0/ref/PizzaDeliveryService.dll
